@@ -22,6 +22,7 @@ The core mathematical engine, signal processing filters, biomechanical physics m
 npm install ink-of-the-forgotten-path
 ```
 
+- Live Demo: [ink-of-the-forgotten-path.animatrous.com](https://ink-of-the-forgotten-path.animatrous.com/)
 - NPM Registry: [npmjs.com/package/ink-of-the-forgotten-path](https://www.npmjs.com/package/ink-of-the-forgotten-path)
 - NPM Library Repository: [github.com/code-dibyajyotirout/ink-of-the-forgotten-path-npm-package](https://github.com/code-dibyajyotirout/ink-of-the-forgotten-path-npm-package)
 - Distributed Fullstack Monorepo: [github.com/code-dibyajyotirout/ink-of-the-forgotten-path-fullstack](https://github.com/code-dibyajyotirout/ink-of-the-forgotten-path-fullstack)
